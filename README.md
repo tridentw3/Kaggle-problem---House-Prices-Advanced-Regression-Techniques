@@ -9,6 +9,7 @@
    b. neural networks
    c. random forests
    d. gradient boosting method
-6. The R codes for the above models along with data pre-processing is attached. Data pre-processing includes 
+6. The R codes (Model.R) for the above models along with data pre-processing is attached. Data pre-processing includes 
    a. removal of constant variance variables
    b. data imputation using median
+7. The input datasets are attached: train.csv and test.csv.
